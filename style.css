@@ -1,0 +1,23 @@
+
+section {
+    padding: 30px 0;
+}
+.content {
+    color: black;
+}
+
+.contact {
+    font-size: large;
+}
+.card-footer {
+    color: blue;
+}
+.fa-red {
+    color: red;
+}
+.fa-green {
+    color: green;
+}
+.card-text a {
+    text-decoration: none;
+}
